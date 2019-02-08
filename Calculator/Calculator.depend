@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549612506 source:f:\stuff\calculator\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Stack.h"
+
+1549611991 f:\stuff\calculator\stack.h
+	<iostream>
+
